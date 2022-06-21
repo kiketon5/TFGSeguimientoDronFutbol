@@ -1,0 +1,8 @@
+data/obj/cropFrame11.jpg
+data/obj/cropFrame15.jpg
+data/obj/cropFrame16.jpg
+data/obj/cropFrame20.jpg
+data/obj/cropFrame24.jpg
+data/obj/cropFrame40.jpg
+data/obj/cropFrame44.jpg
+data/obj/cropFrame48.jpg
